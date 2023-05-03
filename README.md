@@ -1,29 +1,11 @@
 # ProShop e-commerce platform 🛒
-My version of the tutorial project from Brad Traversy's [MERN Stack From Scratch](https://www.traversymedia.com/mern-stack-from-scratch) course
+This is a fork of Brad Traversy's [MERN Stack From Scratch](https://www.traversymedia.com/mern-stack-from-scratch) course project, a full-featured e-commerce platform built with the MERN stack and Redux.
 
-### Install Dependencies (frontend & backend)
+## Installation
+To install the dependencies for the frontend and backend, run the following command:
 
 ```
 npm install
 cd frontend
 npm install
-```
-
-### Run
-
-```
-
-# Run frontend (:3000) & backend (:5000)
-npm run dev
-
-# Run backend only
-npm run server
-```
-
-## Build & Deploy
-
-```
-# Create frontend prod build
-cd frontend
-npm run build
 ```
