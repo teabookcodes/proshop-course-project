@@ -30,7 +30,5 @@ cd frontend
 npm run build
 ```
 
-## License
-This project is licensed under the terms of the MIT license.
-
-Note: For more detailed instructions on how to configure and use the project, please refer to the [original repository](https://github.com/bradtraversy/proshop-v2).
+## Usage and License
+For more detailed instructions on licensing and configuring and using the project, please refer to the [original repository](https://github.com/bradtraversy/proshop-v2).
